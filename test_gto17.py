@@ -44,7 +44,7 @@ class GtologTest(unittest.TestCase):
         #ログインボタンをクリック
         el = self.driver.find_element_by_id("jp.sozolab.gtolog:id/login")
         el.click()
-        sleep(10)
+        sleep(20)
 
 #---START OF SCRIPT
 if __name__ == '__main__':
