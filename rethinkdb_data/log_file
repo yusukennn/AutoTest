@@ -1,0 +1,10 @@
+2019-10-08T14:16:39.582393000 0.021574s notice: Recursively removing directory /Users/yusuke-n/Desktop/appium/gto_test/rethinkdb_data/tmp
+2019-10-08T14:16:39.584377000 0.023564s notice: Initializing directory /Users/yusuke-n/Desktop/appium/gto_test/rethinkdb_data
+2019-10-08T14:16:39.584574000 0.023752s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/yusuke-n/Desktop/appium/gto_test/rethinkdb_data' did not already exist or is empty.)
+2019-10-08T14:16:39.584649000 0.023827s notice: Running rethinkdb 2.3.6 (CLANG 10.0.0 (clang-1000.10.43.1))...
+2019-10-08T14:16:39.595339000 0.034518s notice: Running on Darwin 18.5.0 x86_64
+2019-10-08T14:16:39.595420000 0.034598s notice: Loading data from directory /Users/yusuke-n/Desktop/appium/gto_test/rethinkdb_data
+2019-10-08T14:16:39.768642000 0.207821s info: Automatically using cache size of 100 MB
+2019-10-08T14:16:39.768676000 0.207854s warn: Cache size does not leave much memory for server and query overhead (available memory: 1018 MB).
+2019-10-08T14:16:39.768693000 0.207870s warn: Cache size is very low and may impact performance.
+2019-10-08T14:16:39.772167000 0.211346s error: TCP socket creation failed for port 29015: Address already in use.
